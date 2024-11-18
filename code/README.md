@@ -1,10 +1,10 @@
 # Code
 ---
 
-### Notebooks
-* Notebook 1
+### Notebooks - run in order of trailing number (1, 2, 3, etc.)
+* Notebook 1 (.ipynb)
 * Notebook 2
 
-## Scripts
-* Script 1
+## Scripts - run in order of trailing number (1, 2, 3, etc.)
+* Script 1 (.py)
 * Script 2
