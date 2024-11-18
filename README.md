@@ -12,5 +12,5 @@
 * Goal 2:
 
 ### Change log
-* Update 1
-* Update 2
+* Found data - 11/17/2024
+* Cleaned data and began the code section 11/17/2024
