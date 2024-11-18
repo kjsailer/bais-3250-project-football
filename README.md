@@ -1,5 +1,7 @@
 # Data Analytics Project Outline
 ---
+### Folder Outline
+* Each folder will contain various data files and a README file of its own outlining its contents
 
 ### To do list
 [x] task 1: Finding data
