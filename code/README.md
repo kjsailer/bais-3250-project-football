@@ -2,9 +2,9 @@
 ---
 
 ### Notebooks - run in order of trailing number (1, 2, 3, etc.)
-* Notebook 1 (.ipynb)
-* Notebook 2
+* notebook_1 (.ipynb)
+* notebook_2
 
 ## Scripts - run in order of trailing number (1, 2, 3, etc.)
-* Script 1 (.py)
-* Script 2
+* script_1 (.py)
+* script_2
